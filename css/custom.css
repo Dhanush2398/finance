@@ -1850,6 +1850,7 @@ header.main-header .header-sticky.active {
 	height: calc(100% - 30px);
 	margin-bottom: 30px;
 	padding: 30px;
+    border: 2px solid black;
 }
 
 .pricing-box.highlighted-box {
